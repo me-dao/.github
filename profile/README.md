@@ -1,4 +1,4 @@
-# Open Source at ME DAO and ME Foundation
+# Open Source at ME Foundation
 
 ## Featured Projects
 
