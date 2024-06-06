@@ -4,4 +4,4 @@
 
 <div align="center">
 
-https://github.com/orgs/me-dao/repositories
+https://github.com/orgs/me-foundation/repositories
